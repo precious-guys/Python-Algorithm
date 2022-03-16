@@ -1,12 +1,12 @@
 a= int(input())
 
-if a>90:
+if 100>=a>89:
     print("A")
-elif a>80:
+elif a>79:
     print("B")
-elif a>70:
+elif a>69:
     print("C")
-elif a>60:
+elif a>59:
     print("D")
-else :
+elif a<60:
     print("F")
